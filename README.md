@@ -3,23 +3,23 @@
 NRGY App on Vue 3 + Vite -pohjainen energiadata-dashboard, joka visualisoi ja analysoi:
 
 - verkosta ostettua energiaa
-- verkkoon myytya energiaa
-- aurinkosahkon tuotantoa
+- verkkoon myytyä energiaa
+- aurinkosähkön tuotantoa
 - spot-hintaa
-- tariffipohjaisia kustannuksia ja saastoja
+- tariffipohjaisia kustannuksia ja säästöjä
 
-Sovellus kayttaa valmiiksi yhdistettya kuukausidataa (`public/combined-data`) ja laskee selaimessa yhteenvetoja, tunnuslukuja ja kaavioita.
+Sovellus käyttää valmiiksi yhdistettyä kuukausidataa (`public/combined-data`) ja laskee selaimessa yhteenvetoja, tunnuslukuja ja kaavioita.
 
-## Mita projekti tekee
+## Mitä projekti tekee
 
-Projektin tarkoitus on tarjota kayttajalle yksi nakyma oman energiankayton ja aurinkotuotannon analysointiin:
+Projektin tarkoitus on tarjota käyttäjälle yksi näkymä oman energiankäytön ja aurinkotuotannon analysointiin:
 
-- aikavalin valinta (paiva, viikko, kuukausi, vuosi, kaikki)
+- aikavälin valinta (päivä, viikko, kuukausi, vuosi, kaikki)
 - synkronoidut kaaviot kulutuksesta, tuotannosta ja hinnasta
-- summary-nakyma, jossa on jakaumat, huippuarvot ja kustannuserittelyt
+- summary-näkymä, jossa on jakaumat, huippuarvot ja kustannuserittelyt
 - tariffien (siirto, vero, ALV, marginaalit) vaikutuksen arviointi
 
-Arkkitehtuuri perustuu staattiseen dataan: raakadata validoidaan ja yhdistetaan etukateen skripteilla, jonka jalkeen frontend lukee JSON-tiedostoja ilman erillista backend-API:a.
+Arkkitehtuuri perustuu staattiseen dataan: raakadata validoidaan ja yhdistetään etukäteen skripteillä, jonka jälkeen frontend lukee JSON-tiedostoja ilman erillistä backend-API:a.
 
 ## Teknologiat
 
@@ -37,7 +37,7 @@ Arkkitehtuuri perustuu staattiseen dataan: raakadata validoidaan ja yhdistetaan 
 - Node.js: `^20.19.0` tai `>=22.12.0`
 - npm
 
-Suositus: kayta Node 22 LTS -versiota tai projektin `engines`-maaritykseen sopivaa versiota.
+Suositus: käytä Node 22 LTS -versiota tai projektin `engines`-määritykseen sopivaa versiota.
 
 ## Asennus
 
@@ -49,15 +49,15 @@ npm install
 
 ## Kehitystila
 
-Kaynnista kehityspalvelin:
+Käynnistä kehityspalvelin:
 
 ```sh
 npm run dev
 ```
 
-Taman jalkeen sovellus aukeaa Viten ilmoittamaan osoitteeseen (yleensa `http://localhost:5173`).
+Tämän jälkeen sovellus aukeaa Viten ilmoittamaan osoitteeseen (yleensä `http://localhost:5173`).
 
-## Build / kaanto
+## Build / kääntö
 
 Luo tuotantobuildi:
 
@@ -65,9 +65,9 @@ Luo tuotantobuildi:
 npm run build
 ```
 
-Build-komento tekee ennen varsinaista kaantoa datan validoinnin (`scripts/validate-data.mjs`).
+Build-komento tekee ennen varsinaista kääntöä datan validoinnin (`scripts/validate-data.mjs`).
 
-Jos validointi epaonnistuu, build keskeytyy. Tama estaa virheellisen datan paatymisen julkaisuun.
+Jos validointi epäonnistuu, build keskeytyy. Tämä estää virheellisen datan päätymisen julkaisuun.
 
 ## Tuotantobuildin esikatselu
 
@@ -75,7 +75,7 @@ Jos validointi epaonnistuu, build keskeytyy. Tama estaa virheellisen datan paaty
 npm run preview
 ```
 
-## Muut hyodylliset komennot
+## Muut hyödylliset komennot
 
 Type-check:
 
@@ -92,7 +92,7 @@ npm run test:unit
 E2E-testit:
 
 ```sh
-# Asenna selaimet ensimmaisella kerralla
+# Asenna selaimet ensimmäisellä kerralla
 npx playwright install
 
 # Aja E2E-testit
@@ -113,15 +113,14 @@ npm run format
 
 ## Datan ja dokumentaation kokonaiskuva
 
-Projektin datavirta menee paapiirteittain nain:
+Projektin datavirta menee pääpiirteittäin näin:
 
 1. Raakadata luetaan hakemistoista `raw-data/*`.
-2. Skriptit validoivat ja yhdistavat datan (`scripts/*.mjs`).
+2. Skriptit validoivat ja yhdistävät datan (`scripts/*.mjs`).
 3. Tuotettu data kirjoitetaan hakemistoon `public/combined-data`.
-4. Frontend lataa indeksin ja tarvittavat kuukausitiedostot valitulle aikavalille.
+4. Frontend lataa indeksin ja tarvittavat kuukausitiedostot valitulle aikavälille.
 
-
-## Yhteenveto kayttoon
+## Yhteenveto käyttöön
 
 Nopea aloitus:
 
@@ -139,5 +138,5 @@ npm run preview
 
 ## License
 
-Tama projekti on lisensoitu MIT-lisenssilla.
+Tämä projekti on lisensoitu MIT-lisenssillä.
 Katso lisenssiehdot tiedostosta `LICENSE`.
