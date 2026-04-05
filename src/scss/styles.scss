@@ -1,0 +1,40 @@
+// Import all of Bootstrap’s CSS
+@import 'bootstrap/scss/bootstrap';
+
+// Dark theme styles
+body {
+  background-color: #121212;
+  color: #e0e0e0;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  height: 100vh;
+}
+
+.card {
+  background-color: #1e1e1e;
+  border-color: #333;
+  color: #e0e0e0;
+}
+
+.chart-frame {
+  background-color: #1e1e1e;
+  border-color: #333;
+}
+
+button:not(.btn) {
+  background-color: #333;
+  color: #e0e0e0;
+  border: 1px solid #444;
+}
+
+button:not(.btn):hover {
+  background-color: #444;
+  border-color: #555;
+}
+
+// Hide Highcharts built-in reset zoom button
+.highcharts-button.highcharts-reset-zoom,
+.highcharts-reset-zoom {
+  display: none !important;
+}

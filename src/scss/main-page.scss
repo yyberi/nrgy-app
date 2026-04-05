@@ -1,0 +1,138 @@
+.main-page {
+  height: 100vh;
+  max-height: 100vh;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  padding: 5px;
+}
+
+.dashboard-grid {
+  width: 100%;
+  flex: 1;
+  min-height: 0;
+}
+
+.main-card-logo {
+  width: 102px;
+  height: 102px;
+  display: block;
+  object-fit: contain;
+}
+
+.main-card-logo-button {
+  border: 0;
+  padding: 0;
+  background: transparent;
+  cursor: pointer;
+}
+
+.main-card-logo-button:focus-visible {
+  outline: 2px solid #7db8ff;
+  outline-offset: 3px;
+  border-radius: 4px;
+}
+
+.time-selection-header-controls {
+  display: flex;
+  align-items: center;
+}
+
+.time-selection-header-slot {
+  flex: 1;
+  min-width: 0;
+  display: flex;
+  justify-content: center;
+  position: relative;
+}
+
+.time-selection-range-label {
+  font-size: 1.4rem;
+  font-weight: 700;
+  color: #d9ebff;
+  letter-spacing: 0.02em;
+  white-space: nowrap;
+  position: absolute;
+  left: 15%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.chart-placeholder {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  min-height: 200px;
+  color: #666;
+  font-style: italic;
+}
+
+.chart-info {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  text-align: right;
+  pointer-events: none;
+}
+
+.info-time {
+  font-size: 0.75rem;
+  color: #a6c7ff;
+  width: 9rem;
+  text-align: right;
+  flex-shrink: 0;
+}
+
+.info-value {
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: #9ad0ff;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  width: 8.5rem;
+  text-align: right;
+  flex-shrink: 0;
+}
+
+:deep(.grid-template__title) {
+  font-size: clamp(0.68rem, 0.28vw + 0.58rem, 0.9rem);
+  line-height: 1.15;
+}
+
+:deep(.grid-template__subtitle) {
+  font-size: clamp(0.66rem, 0.2vw + 0.56rem, 0.75rem);
+  line-height: 1.15;
+}
+
+@media (max-width: 1280px) {
+  :deep(.grid-template) {
+    padding: 0.4rem;
+  }
+
+  :deep(.grid-template__header) {
+    margin-bottom: 0.35rem;
+  }
+
+  .info-time {
+    width: 7.2rem;
+    font-size: 0.7rem;
+  }
+
+  .info-value {
+    width: 6.6rem;
+    font-size: 0.8rem;
+  }
+}
+
+@media (max-width: 1120px) {
+  .info-time {
+    width: 6.2rem;
+    font-size: 0.66rem;
+  }
+
+  .info-value {
+    width: 5.8rem;
+    font-size: 0.74rem;
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "grid-elenia",
+  "label": "Elenia siirto",
+  "currency": "EUR",
+  "components": [
+    {
+      "id": "transfer_fee",
+      "type": "per_kwh",
+      "unit": "cents_per_kwh",
+      "schedule": [
+        { "from": "2021-01-01", "value": 4.2016129 },
+        { "from": "2023-05-01", "value": 4.53225806 },
+        { "from": "2024-09-01", "value": 4.69322709 }
+      ]
+    },
+    {
+      "id": "energy_tax",
+      "type": "per_kwh",
+      "unit": "cents_per_kwh",
+      "schedule": [
+        { "from": "2021-01-01", "value": 2.253 }
+      ]
+    }
+  ]
+}

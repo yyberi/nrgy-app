@@ -1,0 +1,45 @@
+#!/usr/bin/env node
+import { promises as fs } from 'fs'
+import path from 'path'
+
+const ROOT = path.resolve(process.cwd())
+const DATA_RAW_DIR = path.join(ROOT, '.', 'raw-data')
+const METER_DIR = path.join(DATA_RAW_DIR, 'meter-data')
+const INDEX_FILE = path.join(METER_DIR, 'index.json')
+
+async function run() {
+  try {
+    const entries = await fs.readdir(METER_DIR, { withFileTypes: true })
+    const files = entries
+      .filter(entry => entry.isFile() && entry.name.endsWith('.json') && entry.name !== 'index.json')
+      .map(entry => entry.name)
+      .sort((a, b) => a.localeCompare(b, 'en'))
+
+    if (files.length === 0) {
+      console.warn('[generate-meter-index] No JSON files found in data-raw/meter-data')
+    }
+
+    const json = JSON.stringify(files, null, 2) + '\n'
+    let shouldWrite = true
+
+    try {
+      const existing = await fs.readFile(INDEX_FILE, 'utf8')
+      if (existing === json) {
+        shouldWrite = false
+        console.log('[generate-meter-index] index.json up to date, no changes')
+      }
+    } catch {
+      // Missing file is fine; we'll create it below.
+    }
+
+    if (shouldWrite) {
+      await fs.writeFile(INDEX_FILE, json, 'utf8')
+      console.log(`[generate-meter-index] Wrote index.json with ${files.length} entries`)
+    }
+  } catch (error) {
+    console.error('[generate-meter-index] Failed:', error)
+    process.exitCode = 1
+  }
+}
+
+run()

@@ -1,0 +1,5210 @@
+[
+  {
+    "time": "2022-07-31T21:00:00.000Z",
+    "in": 0.59,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-07-31T22:00:00.000Z",
+    "in": 0.46,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-07-31T23:00:00.000Z",
+    "in": 0.45,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-01T00:00:00.000Z",
+    "in": 0.46,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-01T01:00:00.000Z",
+    "in": 0.44,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-01T02:00:00.000Z",
+    "in": 0.39,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-01T03:00:00.000Z",
+    "in": 0.26,
+    "in_net": null,
+    "out": 0.01,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-01T04:00:00.000Z",
+    "in": 0.13,
+    "in_net": null,
+    "out": 0.05,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-01T05:00:00.000Z",
+    "in": 0.01,
+    "in_net": null,
+    "out": 0.27,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-01T06:00:00.000Z",
+    "in": 0.19,
+    "in_net": null,
+    "out": 0.28,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-01T07:00:00.000Z",
+    "in": 0.24,
+    "in_net": null,
+    "out": 1.23,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-01T08:00:00.000Z",
+    "in": 0,
+    "in_net": null,
+    "out": 2.53,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-01T09:00:00.000Z",
+    "in": 0,
+    "in_net": null,
+    "out": 3.38,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-01T10:00:00.000Z",
+    "in": 0.01,
+    "in_net": null,
+    "out": 3.78,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-01T11:00:00.000Z",
+    "in": 0,
+    "in_net": null,
+    "out": 4.2,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-01T12:00:00.000Z",
+    "in": 0,
+    "in_net": null,
+    "out": 3.68,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-01T13:00:00.000Z",
+    "in": 0,
+    "in_net": null,
+    "out": 2.08,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-01T14:00:00.000Z",
+    "in": 0,
+    "in_net": null,
+    "out": 1.74,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-01T15:00:00.000Z",
+    "in": 0,
+    "in_net": null,
+    "out": 2.36,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-01T16:00:00.000Z",
+    "in": 0.03,
+    "in_net": null,
+    "out": 0.34,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-01T17:00:00.000Z",
+    "in": 4.47,
+    "in_net": null,
+    "out": 0.01,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-01T18:00:00.000Z",
+    "in": 6.72,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-01T19:00:00.000Z",
+    "in": 2.21,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-01T20:00:00.000Z",
+    "in": 0.61,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-01T21:00:00.000Z",
+    "in": 0.46,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-01T22:00:00.000Z",
+    "in": 0.46,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-01T23:00:00.000Z",
+    "in": 0.46,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-02T00:00:00.000Z",
+    "in": 0.44,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-02T01:00:00.000Z",
+    "in": 0.45,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-02T02:00:00.000Z",
+    "in": 0.45,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-02T03:00:00.000Z",
+    "in": 0.31,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-02T04:00:00.000Z",
+    "in": 0.2,
+    "in_net": null,
+    "out": 0.03,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-02T05:00:00.000Z",
+    "in": 0.08,
+    "in_net": null,
+    "out": 0.12,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-02T06:00:00.000Z",
+    "in": 0.05,
+    "in_net": null,
+    "out": 0.56,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-02T07:00:00.000Z",
+    "in": 0.3,
+    "in_net": null,
+    "out": 0.55,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-02T08:00:00.000Z",
+    "in": 0.26,
+    "in_net": null,
+    "out": 1.58,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-02T09:00:00.000Z",
+    "in": 0.43,
+    "in_net": null,
+    "out": 2.41,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-02T10:00:00.000Z",
+    "in": 0.44,
+    "in_net": null,
+    "out": 2.5,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-02T11:00:00.000Z",
+    "in": 0.01,
+    "in_net": null,
+    "out": 2.54,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-02T12:00:00.000Z",
+    "in": 0.04,
+    "in_net": null,
+    "out": 2.89,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-02T13:00:00.000Z",
+    "in": 0,
+    "in_net": null,
+    "out": 3.71,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-02T14:00:00.000Z",
+    "in": 0,
+    "in_net": null,
+    "out": 2.93,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-02T15:00:00.000Z",
+    "in": 0,
+    "in_net": null,
+    "out": 2.73,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-02T16:00:00.000Z",
+    "in": 0.03,
+    "in_net": null,
+    "out": 1.39,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-02T17:00:00.000Z",
+    "in": 0.03,
+    "in_net": null,
+    "out": 0.46,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-02T18:00:00.000Z",
+    "in": 0.36,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-02T19:00:00.000Z",
+    "in": 0.65,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-02T20:00:00.000Z",
+    "in": 0.85,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-02T21:00:00.000Z",
+    "in": 0.51,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-02T22:00:00.000Z",
+    "in": 0.48,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-02T23:00:00.000Z",
+    "in": 0.48,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-03T00:00:00.000Z",
+    "in": 0.46,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-03T01:00:00.000Z",
+    "in": 0.46,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-03T02:00:00.000Z",
+    "in": 0.46,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-03T03:00:00.000Z",
+    "in": 0.41,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-03T04:00:00.000Z",
+    "in": 0.32,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-03T05:00:00.000Z",
+    "in": 0.2,
+    "in_net": null,
+    "out": 0.02,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-03T06:00:00.000Z",
+    "in": 0.07,
+    "in_net": null,
+    "out": 0.16,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-03T07:00:00.000Z",
+    "in": 0.07,
+    "in_net": null,
+    "out": 0.81,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-03T08:00:00.000Z",
+    "in": 0.11,
+    "in_net": null,
+    "out": 0.55,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-03T09:00:00.000Z",
+    "in": 0,
+    "in_net": null,
+    "out": 0.9,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-03T10:00:00.000Z",
+    "in": 0,
+    "in_net": null,
+    "out": 1.59,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-03T11:00:00.000Z",
+    "in": 0.79,
+    "in_net": null,
+    "out": 2.28,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-03T12:00:00.000Z",
+    "in": 0.25,
+    "in_net": null,
+    "out": 2.62,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-03T13:00:00.000Z",
+    "in": 0,
+    "in_net": null,
+    "out": 1.36,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-03T14:00:00.000Z",
+    "in": 0.3,
+    "in_net": null,
+    "out": 0.08,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-03T15:00:00.000Z",
+    "in": 1.35,
+    "in_net": null,
+    "out": 0.09,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-03T16:00:00.000Z",
+    "in": 0.74,
+    "in_net": null,
+    "out": 0.01,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-03T17:00:00.000Z",
+    "in": 0.6,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-03T18:00:00.000Z",
+    "in": 0.66,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-03T19:00:00.000Z",
+    "in": 1.04,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-03T20:00:00.000Z",
+    "in": 0.92,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-03T21:00:00.000Z",
+    "in": 0.62,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-03T22:00:00.000Z",
+    "in": 0.48,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-03T23:00:00.000Z",
+    "in": 0.46,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-04T00:00:00.000Z",
+    "in": 0.46,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-04T01:00:00.000Z",
+    "in": 0.47,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-04T02:00:00.000Z",
+    "in": 0.45,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-04T03:00:00.000Z",
+    "in": 0.42,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-04T04:00:00.000Z",
+    "in": 0.34,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-04T05:00:00.000Z",
+    "in": 0.33,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-04T06:00:00.000Z",
+    "in": 0.99,
+    "in_net": null,
+    "out": 0.08,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-04T07:00:00.000Z",
+    "in": 0.66,
+    "in_net": null,
+    "out": 0.76,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-04T08:00:00.000Z",
+    "in": 0.76,
+    "in_net": null,
+    "out": 1.62,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-04T09:00:00.000Z",
+    "in": 1.78,
+    "in_net": null,
+    "out": 1.5,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-04T10:00:00.000Z",
+    "in": 1.56,
+    "in_net": null,
+    "out": 1.85,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-04T11:00:00.000Z",
+    "in": 1.3,
+    "in_net": null,
+    "out": 1.96,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-04T12:00:00.000Z",
+    "in": 2.45,
+    "in_net": null,
+    "out": 1.82,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-04T13:00:00.000Z",
+    "in": 2.16,
+    "in_net": null,
+    "out": 1.48,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-04T14:00:00.000Z",
+    "in": 1.55,
+    "in_net": null,
+    "out": 1.5,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-04T15:00:00.000Z",
+    "in": 1.62,
+    "in_net": null,
+    "out": 1.35,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-04T16:00:00.000Z",
+    "in": 1.99,
+    "in_net": null,
+    "out": 0.64,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-04T17:00:00.000Z",
+    "in": 0.98,
+    "in_net": null,
+    "out": 0.1,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-04T18:00:00.000Z",
+    "in": 1.3,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-04T19:00:00.000Z",
+    "in": 2.17,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-04T20:00:00.000Z",
+    "in": 0.58,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-04T21:00:00.000Z",
+    "in": 0.48,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-04T22:00:00.000Z",
+    "in": 0.46,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-04T23:00:00.000Z",
+    "in": 0.51,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-05T00:00:00.000Z",
+    "in": 0.47,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-05T01:00:00.000Z",
+    "in": 0.47,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-05T02:00:00.000Z",
+    "in": 0.44,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-05T03:00:00.000Z",
+    "in": 0.27,
+    "in_net": null,
+    "out": 0.02,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-05T04:00:00.000Z",
+    "in": 0.27,
+    "in_net": null,
+    "out": 0.02,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-05T05:00:00.000Z",
+    "in": 0.09,
+    "in_net": null,
+    "out": 0.09,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-05T06:00:00.000Z",
+    "in": 0.22,
+    "in_net": null,
+    "out": 0.2,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-05T07:00:00.000Z",
+    "in": 0.89,
+    "in_net": null,
+    "out": 0.03,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-05T08:00:00.000Z",
+    "in": 0.12,
+    "in_net": null,
+    "out": 0.84,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-05T09:00:00.000Z",
+    "in": 0.16,
+    "in_net": null,
+    "out": 0.37,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-05T10:00:00.000Z",
+    "in": 0.36,
+    "in_net": null,
+    "out": 0.02,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-05T11:00:00.000Z",
+    "in": 0.42,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-05T12:00:00.000Z",
+    "in": 0.27,
+    "in_net": null,
+    "out": 0.56,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-05T13:00:00.000Z",
+    "in": 1.26,
+    "in_net": null,
+    "out": 1.67,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-05T14:00:00.000Z",
+    "in": 1.92,
+    "in_net": null,
+    "out": 0.49,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-05T15:00:00.000Z",
+    "in": 1.12,
+    "in_net": null,
+    "out": 0.3,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-05T16:00:00.000Z",
+    "in": 0.54,
+    "in_net": null,
+    "out": 0.01,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-05T17:00:00.000Z",
+    "in": 4.71,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-05T18:00:00.000Z",
+    "in": 5.31,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-05T19:00:00.000Z",
+    "in": 5.81,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-05T20:00:00.000Z",
+    "in": 1.35,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-05T21:00:00.000Z",
+    "in": 0.79,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-05T22:00:00.000Z",
+    "in": 0.57,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-05T23:00:00.000Z",
+    "in": 0.53,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-06T00:00:00.000Z",
+    "in": 0.63,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-06T01:00:00.000Z",
+    "in": 0.74,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-06T02:00:00.000Z",
+    "in": 0.68,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-06T03:00:00.000Z",
+    "in": 0.69,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-06T04:00:00.000Z",
+    "in": 0.73,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-06T05:00:00.000Z",
+    "in": 0.47,
+    "in_net": null,
+    "out": 0.02,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-06T06:00:00.000Z",
+    "in": 0.18,
+    "in_net": null,
+    "out": 0.22,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-06T07:00:00.000Z",
+    "in": 1.66,
+    "in_net": null,
+    "out": 0.05,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-06T08:00:00.000Z",
+    "in": 1.85,
+    "in_net": null,
+    "out": 0.13,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-06T09:00:00.000Z",
+    "in": 0.3,
+    "in_net": null,
+    "out": 1.09,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-06T10:00:00.000Z",
+    "in": 0.11,
+    "in_net": null,
+    "out": 2.07,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-06T11:00:00.000Z",
+    "in": 0.02,
+    "in_net": null,
+    "out": 2.85,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-06T12:00:00.000Z",
+    "in": 0.01,
+    "in_net": null,
+    "out": 3.53,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-06T13:00:00.000Z",
+    "in": 0.12,
+    "in_net": null,
+    "out": 1.68,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-06T14:00:00.000Z",
+    "in": 0.08,
+    "in_net": null,
+    "out": 1.27,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-06T15:00:00.000Z",
+    "in": 0.16,
+    "in_net": null,
+    "out": 0.36,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-06T16:00:00.000Z",
+    "in": 0.46,
+    "in_net": null,
+    "out": 0.06,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-06T17:00:00.000Z",
+    "in": 0.57,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-06T18:00:00.000Z",
+    "in": 0.64,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-06T19:00:00.000Z",
+    "in": 0.56,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-06T20:00:00.000Z",
+    "in": 0.66,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-06T21:00:00.000Z",
+    "in": 1.01,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-06T22:00:00.000Z",
+    "in": 0.62,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-06T23:00:00.000Z",
+    "in": 0.58,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-07T00:00:00.000Z",
+    "in": 0.59,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-07T01:00:00.000Z",
+    "in": 0.57,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-07T02:00:00.000Z",
+    "in": 0.55,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-07T03:00:00.000Z",
+    "in": 0.38,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-07T04:00:00.000Z",
+    "in": 0.39,
+    "in_net": null,
+    "out": 0.02,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-07T05:00:00.000Z",
+    "in": 0.37,
+    "in_net": null,
+    "out": 0.02,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-07T06:00:00.000Z",
+    "in": 0.18,
+    "in_net": null,
+    "out": 0.2,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-07T07:00:00.000Z",
+    "in": 0.14,
+    "in_net": null,
+    "out": 1.16,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-07T08:00:00.000Z",
+    "in": 1.38,
+    "in_net": null,
+    "out": 0.96,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-07T09:00:00.000Z",
+    "in": 1.53,
+    "in_net": null,
+    "out": 1.36,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-07T10:00:00.000Z",
+    "in": 1.12,
+    "in_net": null,
+    "out": 1.88,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-07T11:00:00.000Z",
+    "in": 1.93,
+    "in_net": null,
+    "out": 1.3,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-07T12:00:00.000Z",
+    "in": 1.59,
+    "in_net": null,
+    "out": 1.4,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-07T13:00:00.000Z",
+    "in": 3.26,
+    "in_net": null,
+    "out": 0.61,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-07T14:00:00.000Z",
+    "in": 1.77,
+    "in_net": null,
+    "out": 0.75,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-07T15:00:00.000Z",
+    "in": 0.35,
+    "in_net": null,
+    "out": 1.28,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-07T16:00:00.000Z",
+    "in": 1.5,
+    "in_net": null,
+    "out": 0.48,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-07T17:00:00.000Z",
+    "in": 2.11,
+    "in_net": null,
+    "out": 0.11,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-07T18:00:00.000Z",
+    "in": 2.63,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-07T19:00:00.000Z",
+    "in": 1.97,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-07T20:00:00.000Z",
+    "in": 0.83,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-07T21:00:00.000Z",
+    "in": 0.53,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-07T22:00:00.000Z",
+    "in": 0.52,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-07T23:00:00.000Z",
+    "in": 0.48,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-08T00:00:00.000Z",
+    "in": 0.46,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-08T01:00:00.000Z",
+    "in": 0.45,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-08T02:00:00.000Z",
+    "in": 0.45,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-08T03:00:00.000Z",
+    "in": 0.33,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-08T04:00:00.000Z",
+    "in": 0.27,
+    "in_net": null,
+    "out": 0.04,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-08T05:00:00.000Z",
+    "in": 0.17,
+    "in_net": null,
+    "out": 0.04,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-08T06:00:00.000Z",
+    "in": 0,
+    "in_net": null,
+    "out": 0.43,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-08T07:00:00.000Z",
+    "in": 0,
+    "in_net": null,
+    "out": 1.12,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-08T08:00:00.000Z",
+    "in": 0.29,
+    "in_net": null,
+    "out": 0.47,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-08T09:00:00.000Z",
+    "in": 0.17,
+    "in_net": null,
+    "out": 0.16,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-08T10:00:00.000Z",
+    "in": 0,
+    "in_net": null,
+    "out": 0.93,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-08T11:00:00.000Z",
+    "in": 0,
+    "in_net": null,
+    "out": 3.2,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-08T12:00:00.000Z",
+    "in": 0,
+    "in_net": null,
+    "out": 4.23,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-08T13:00:00.000Z",
+    "in": 0.01,
+    "in_net": null,
+    "out": 3.76,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-08T14:00:00.000Z",
+    "in": 0.03,
+    "in_net": null,
+    "out": 3.01,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-08T15:00:00.000Z",
+    "in": 0.49,
+    "in_net": null,
+    "out": 2.07,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-08T16:00:00.000Z",
+    "in": 0.26,
+    "in_net": null,
+    "out": 1.19,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-08T17:00:00.000Z",
+    "in": 0.39,
+    "in_net": null,
+    "out": 0.11,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-08T18:00:00.000Z",
+    "in": 0.59,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-08T19:00:00.000Z",
+    "in": 0.53,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-08T20:00:00.000Z",
+    "in": 0.57,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-08T21:00:00.000Z",
+    "in": 0.47,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-08T22:00:00.000Z",
+    "in": 0.46,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-08T23:00:00.000Z",
+    "in": 0.46,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-09T00:00:00.000Z",
+    "in": 0.46,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-09T01:00:00.000Z",
+    "in": 0.49,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-09T02:00:00.000Z",
+    "in": 0.45,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-09T03:00:00.000Z",
+    "in": 0.38,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-09T04:00:00.000Z",
+    "in": 0.3,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-09T05:00:00.000Z",
+    "in": 0.25,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-09T06:00:00.000Z",
+    "in": 0.09,
+    "in_net": null,
+    "out": 0.17,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-09T07:00:00.000Z",
+    "in": 0,
+    "in_net": null,
+    "out": 1.47,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-09T08:00:00.000Z",
+    "in": 0,
+    "in_net": null,
+    "out": 2.77,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-09T09:00:00.000Z",
+    "in": 0,
+    "in_net": null,
+    "out": 3.45,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-09T10:00:00.000Z",
+    "in": 0,
+    "in_net": null,
+    "out": 3.91,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-09T11:00:00.000Z",
+    "in": 0,
+    "in_net": null,
+    "out": 4.05,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-09T12:00:00.000Z",
+    "in": 0,
+    "in_net": null,
+    "out": 4.12,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-09T13:00:00.000Z",
+    "in": 0.42,
+    "in_net": null,
+    "out": 3.09,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-09T14:00:00.000Z",
+    "in": 0.2,
+    "in_net": null,
+    "out": 2.24,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-09T15:00:00.000Z",
+    "in": 0.05,
+    "in_net": null,
+    "out": 1.98,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-09T16:00:00.000Z",
+    "in": 0.81,
+    "in_net": null,
+    "out": 0.85,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-09T17:00:00.000Z",
+    "in": 0.44,
+    "in_net": null,
+    "out": 0.08,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-09T18:00:00.000Z",
+    "in": 0.9,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-09T19:00:00.000Z",
+    "in": 0.86,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-09T20:00:00.000Z",
+    "in": 0.53,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-09T21:00:00.000Z",
+    "in": 0.52,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-09T22:00:00.000Z",
+    "in": 0.51,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-09T23:00:00.000Z",
+    "in": 0.52,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-10T00:00:00.000Z",
+    "in": 0.5,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-10T01:00:00.000Z",
+    "in": 0.5,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-10T02:00:00.000Z",
+    "in": 0.49,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-10T03:00:00.000Z",
+    "in": 0.29,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-10T04:00:00.000Z",
+    "in": 0.34,
+    "in_net": null,
+    "out": 0.01,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-10T05:00:00.000Z",
+    "in": 0.24,
+    "in_net": null,
+    "out": 0.19,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-10T06:00:00.000Z",
+    "in": 0,
+    "in_net": null,
+    "out": 0.63,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-10T07:00:00.000Z",
+    "in": 0,
+    "in_net": null,
+    "out": 0.88,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-10T08:00:00.000Z",
+    "in": 0,
+    "in_net": null,
+    "out": 1.99,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-10T09:00:00.000Z",
+    "in": 0,
+    "in_net": null,
+    "out": 3.43,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-10T10:00:00.000Z",
+    "in": 0,
+    "in_net": null,
+    "out": 3.29,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-10T11:00:00.000Z",
+    "in": 0.02,
+    "in_net": null,
+    "out": 2.73,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-10T12:00:00.000Z",
+    "in": 0,
+    "in_net": null,
+    "out": 2.31,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-10T13:00:00.000Z",
+    "in": 0.8,
+    "in_net": null,
+    "out": 1.25,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-10T14:00:00.000Z",
+    "in": 0.1,
+    "in_net": null,
+    "out": 0.92,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-10T15:00:00.000Z",
+    "in": 0.51,
+    "in_net": null,
+    "out": 0.26,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-10T16:00:00.000Z",
+    "in": 0.1,
+    "in_net": null,
+    "out": 0.25,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-10T17:00:00.000Z",
+    "in": 0.22,
+    "in_net": null,
+    "out": 0.03,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-10T18:00:00.000Z",
+    "in": 0.78,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-10T19:00:00.000Z",
+    "in": 0.73,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-10T20:00:00.000Z",
+    "in": 0.56,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-10T21:00:00.000Z",
+    "in": 0.46,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-10T22:00:00.000Z",
+    "in": 0.46,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-10T23:00:00.000Z",
+    "in": 0.5,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-11T00:00:00.000Z",
+    "in": 0.46,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-11T01:00:00.000Z",
+    "in": 0.47,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-11T02:00:00.000Z",
+    "in": 0.45,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-11T03:00:00.000Z",
+    "in": 0.36,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-11T04:00:00.000Z",
+    "in": 0.19,
+    "in_net": null,
+    "out": 0.05,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-11T05:00:00.000Z",
+    "in": 0,
+    "in_net": null,
+    "out": 0.23,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-11T06:00:00.000Z",
+    "in": 0,
+    "in_net": null,
+    "out": 0.25,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-11T07:00:00.000Z",
+    "in": 0,
+    "in_net": null,
+    "out": 0.8,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-11T08:00:00.000Z",
+    "in": 0,
+    "in_net": null,
+    "out": 1.26,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-11T09:00:00.000Z",
+    "in": 0,
+    "in_net": null,
+    "out": 2.93,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-11T10:00:00.000Z",
+    "in": 0,
+    "in_net": null,
+    "out": 3.07,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-11T11:00:00.000Z",
+    "in": 0.03,
+    "in_net": null,
+    "out": 1.93,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-11T12:00:00.000Z",
+    "in": 0,
+    "in_net": null,
+    "out": 2.18,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-11T13:00:00.000Z",
+    "in": 0.01,
+    "in_net": null,
+    "out": 2.66,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-11T14:00:00.000Z",
+    "in": 0.14,
+    "in_net": null,
+    "out": 2.29,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-11T15:00:00.000Z",
+    "in": 0.11,
+    "in_net": null,
+    "out": 1.3,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-11T16:00:00.000Z",
+    "in": 0.03,
+    "in_net": null,
+    "out": 0.98,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-11T17:00:00.000Z",
+    "in": 0.17,
+    "in_net": null,
+    "out": 0.08,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-11T18:00:00.000Z",
+    "in": 1.06,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-11T19:00:00.000Z",
+    "in": 0.83,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-11T20:00:00.000Z",
+    "in": 0.47,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-11T21:00:00.000Z",
+    "in": 0.47,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-11T22:00:00.000Z",
+    "in": 0.53,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-11T23:00:00.000Z",
+    "in": 0.89,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-12T00:00:00.000Z",
+    "in": 1.06,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-12T01:00:00.000Z",
+    "in": 1.05,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-12T02:00:00.000Z",
+    "in": 0.51,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-12T03:00:00.000Z",
+    "in": 0.53,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-12T04:00:00.000Z",
+    "in": 0.41,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-12T05:00:00.000Z",
+    "in": 0.59,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-12T06:00:00.000Z",
+    "in": 0.38,
+    "in_net": null,
+    "out": 0.01,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-12T07:00:00.000Z",
+    "in": 0.06,
+    "in_net": null,
+    "out": 0.39,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-12T08:00:00.000Z",
+    "in": 0.02,
+    "in_net": null,
+    "out": 2.04,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-12T09:00:00.000Z",
+    "in": 0.02,
+    "in_net": null,
+    "out": 2.5,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-12T10:00:00.000Z",
+    "in": 0,
+    "in_net": null,
+    "out": 2.23,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-12T11:00:00.000Z",
+    "in": 0,
+    "in_net": null,
+    "out": 1.98,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-12T12:00:00.000Z",
+    "in": 0,
+    "in_net": null,
+    "out": 3.12,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-12T13:00:00.000Z",
+    "in": 0.01,
+    "in_net": null,
+    "out": 3.53,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-12T14:00:00.000Z",
+    "in": 0.27,
+    "in_net": null,
+    "out": 2.74,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-12T15:00:00.000Z",
+    "in": 0,
+    "in_net": null,
+    "out": 2.18,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-12T16:00:00.000Z",
+    "in": 0,
+    "in_net": null,
+    "out": 1.17,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-12T17:00:00.000Z",
+    "in": 7.65,
+    "in_net": null,
+    "out": 0.01,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-12T18:00:00.000Z",
+    "in": 3.28,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-12T19:00:00.000Z",
+    "in": 0.84,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-12T20:00:00.000Z",
+    "in": 0.84,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-12T21:00:00.000Z",
+    "in": 0.62,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-12T22:00:00.000Z",
+    "in": 0.59,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-12T23:00:00.000Z",
+    "in": 0.7,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-13T00:00:00.000Z",
+    "in": 0.57,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-13T01:00:00.000Z",
+    "in": 0.57,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-13T02:00:00.000Z",
+    "in": 0.57,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-13T03:00:00.000Z",
+    "in": 0.5,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-13T04:00:00.000Z",
+    "in": 0.41,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-13T05:00:00.000Z",
+    "in": 0.21,
+    "in_net": null,
+    "out": 0.08,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-13T06:00:00.000Z",
+    "in": 0.05,
+    "in_net": null,
+    "out": 0.34,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-13T07:00:00.000Z",
+    "in": 0.13,
+    "in_net": null,
+    "out": 0.91,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-13T08:00:00.000Z",
+    "in": 0.45,
+    "in_net": null,
+    "out": 0.44,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-13T09:00:00.000Z",
+    "in": 0.47,
+    "in_net": null,
+    "out": 0.23,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-13T10:00:00.000Z",
+    "in": 1.13,
+    "in_net": null,
+    "out": 0.35,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-13T11:00:00.000Z",
+    "in": 0.45,
+    "in_net": null,
+    "out": 0.87,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-13T12:00:00.000Z",
+    "in": 0.42,
+    "in_net": null,
+    "out": 2.08,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-13T13:00:00.000Z",
+    "in": 0,
+    "in_net": null,
+    "out": 3.36,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-13T14:00:00.000Z",
+    "in": 0,
+    "in_net": null,
+    "out": 2.72,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-13T15:00:00.000Z",
+    "in": 0,
+    "in_net": null,
+    "out": 1.97,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-13T16:00:00.000Z",
+    "in": 0.3,
+    "in_net": null,
+    "out": 0.74,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-13T17:00:00.000Z",
+    "in": 8.04,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-13T18:00:00.000Z",
+    "in": 2.52,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-13T19:00:00.000Z",
+    "in": 0.75,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-13T20:00:00.000Z",
+    "in": 0.78,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-13T21:00:00.000Z",
+    "in": 0.62,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-13T22:00:00.000Z",
+    "in": 0.59,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-13T23:00:00.000Z",
+    "in": 0.6,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-14T00:00:00.000Z",
+    "in": 0.49,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-14T01:00:00.000Z",
+    "in": 0.48,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-14T02:00:00.000Z",
+    "in": 0.47,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-14T03:00:00.000Z",
+    "in": 0.38,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-14T04:00:00.000Z",
+    "in": 0.3,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-14T05:00:00.000Z",
+    "in": 0.27,
+    "in_net": null,
+    "out": 0.02,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-14T06:00:00.000Z",
+    "in": 0.12,
+    "in_net": null,
+    "out": 0.12,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-14T07:00:00.000Z",
+    "in": 0.96,
+    "in_net": null,
+    "out": 0.9,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-14T08:00:00.000Z",
+    "in": 0,
+    "in_net": null,
+    "out": 2.3,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-14T09:00:00.000Z",
+    "in": 0.3,
+    "in_net": null,
+    "out": 2.31,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-14T10:00:00.000Z",
+    "in": 0.17,
+    "in_net": null,
+    "out": 2.77,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-14T11:00:00.000Z",
+    "in": 0,
+    "in_net": null,
+    "out": 3.44,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-14T12:00:00.000Z",
+    "in": 0.06,
+    "in_net": null,
+    "out": 2.71,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-14T13:00:00.000Z",
+    "in": 0.07,
+    "in_net": null,
+    "out": 2.06,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-14T14:00:00.000Z",
+    "in": 1.32,
+    "in_net": null,
+    "out": 1.04,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-14T15:00:00.000Z",
+    "in": 0.07,
+    "in_net": null,
+    "out": 1.57,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-14T16:00:00.000Z",
+    "in": 0.11,
+    "in_net": null,
+    "out": 0.72,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-14T17:00:00.000Z",
+    "in": 0.64,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-14T18:00:00.000Z",
+    "in": 1.25,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-14T19:00:00.000Z",
+    "in": 1,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-14T20:00:00.000Z",
+    "in": 0.69,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-14T21:00:00.000Z",
+    "in": 0.59,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-14T22:00:00.000Z",
+    "in": 0.64,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-14T23:00:00.000Z",
+    "in": 0.7,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-15T00:00:00.000Z",
+    "in": 0.6,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-15T01:00:00.000Z",
+    "in": 0.58,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-15T02:00:00.000Z",
+    "in": 0.58,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-15T03:00:00.000Z",
+    "in": 0.44,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-15T04:00:00.000Z",
+    "in": 0.39,
+    "in_net": null,
+    "out": 0.02,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-15T05:00:00.000Z",
+    "in": 0.27,
+    "in_net": null,
+    "out": 0.02,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-15T06:00:00.000Z",
+    "in": 0.08,
+    "in_net": null,
+    "out": 0.14,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-15T07:00:00.000Z",
+    "in": 0.01,
+    "in_net": null,
+    "out": 1.23,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-15T08:00:00.000Z",
+    "in": 0,
+    "in_net": null,
+    "out": 2.44,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-15T09:00:00.000Z",
+    "in": 0,
+    "in_net": null,
+    "out": 3.09,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-15T10:00:00.000Z",
+    "in": 0,
+    "in_net": null,
+    "out": 2.42,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-15T11:00:00.000Z",
+    "in": 0,
+    "in_net": null,
+    "out": 3.45,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-15T12:00:00.000Z",
+    "in": 0.01,
+    "in_net": null,
+    "out": 3.54,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-15T13:00:00.000Z",
+    "in": 0.02,
+    "in_net": null,
+    "out": 3.15,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-15T14:00:00.000Z",
+    "in": 0.02,
+    "in_net": null,
+    "out": 2.69,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-15T15:00:00.000Z",
+    "in": 0.17,
+    "in_net": null,
+    "out": 1.71,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-15T16:00:00.000Z",
+    "in": 0.76,
+    "in_net": null,
+    "out": 0.55,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-15T17:00:00.000Z",
+    "in": 1.21,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-15T18:00:00.000Z",
+    "in": 0.82,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-15T19:00:00.000Z",
+    "in": 0.6,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-15T20:00:00.000Z",
+    "in": 0.54,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-15T21:00:00.000Z",
+    "in": 0.53,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-15T22:00:00.000Z",
+    "in": 0.53,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-15T23:00:00.000Z",
+    "in": 0.53,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-16T00:00:00.000Z",
+    "in": 0.57,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-16T01:00:00.000Z",
+    "in": 0.52,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-16T02:00:00.000Z",
+    "in": 0.54,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-16T03:00:00.000Z",
+    "in": 0.99,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-16T04:00:00.000Z",
+    "in": 0.4,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-16T05:00:00.000Z",
+    "in": 0.1,
+    "in_net": null,
+    "out": 0.13,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-16T06:00:00.000Z",
+    "in": 0.1,
+    "in_net": null,
+    "out": 0.18,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-16T07:00:00.000Z",
+    "in": 0,
+    "in_net": null,
+    "out": 1.19,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-16T08:00:00.000Z",
+    "in": 0,
+    "in_net": null,
+    "out": 2.3,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-16T09:00:00.000Z",
+    "in": 0,
+    "in_net": null,
+    "out": 2.93,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-16T10:00:00.000Z",
+    "in": 0,
+    "in_net": null,
+    "out": 2.98,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-16T11:00:00.000Z",
+    "in": 0,
+    "in_net": null,
+    "out": 3.62,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-16T12:00:00.000Z",
+    "in": 0.02,
+    "in_net": null,
+    "out": 3.49,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-16T13:00:00.000Z",
+    "in": 0.08,
+    "in_net": null,
+    "out": 2.62,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-16T14:00:00.000Z",
+    "in": 0.15,
+    "in_net": null,
+    "out": 1.8,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-16T15:00:00.000Z",
+    "in": 0.09,
+    "in_net": null,
+    "out": 1.37,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-16T16:00:00.000Z",
+    "in": 0.2,
+    "in_net": null,
+    "out": 0.49,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-16T17:00:00.000Z",
+    "in": 1.57,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-16T18:00:00.000Z",
+    "in": 1.38,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-16T19:00:00.000Z",
+    "in": 1.13,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-16T20:00:00.000Z",
+    "in": 0.69,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-16T21:00:00.000Z",
+    "in": 0.71,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-16T22:00:00.000Z",
+    "in": 0.81,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-16T23:00:00.000Z",
+    "in": 0.71,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-17T00:00:00.000Z",
+    "in": 0.69,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-17T01:00:00.000Z",
+    "in": 0.68,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-17T02:00:00.000Z",
+    "in": 0.7,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-17T03:00:00.000Z",
+    "in": 0.64,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-17T04:00:00.000Z",
+    "in": 0.55,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-17T05:00:00.000Z",
+    "in": 0.3,
+    "in_net": null,
+    "out": 0.04,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-17T06:00:00.000Z",
+    "in": 0.14,
+    "in_net": null,
+    "out": 0.19,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-17T07:00:00.000Z",
+    "in": 0.29,
+    "in_net": null,
+    "out": 0.04,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-17T08:00:00.000Z",
+    "in": 0.06,
+    "in_net": null,
+    "out": 0.74,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-17T09:00:00.000Z",
+    "in": 0,
+    "in_net": null,
+    "out": 1.88,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-17T10:00:00.000Z",
+    "in": 0.86,
+    "in_net": null,
+    "out": 0.91,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-17T11:00:00.000Z",
+    "in": 1.03,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-17T12:00:00.000Z",
+    "in": 0.9,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-17T13:00:00.000Z",
+    "in": 0.67,
+    "in_net": null,
+    "out": 0.02,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-17T14:00:00.000Z",
+    "in": 1.62,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-17T15:00:00.000Z",
+    "in": 7.18,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-17T16:00:00.000Z",
+    "in": 2.16,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-17T17:00:00.000Z",
+    "in": 0.71,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-17T18:00:00.000Z",
+    "in": 0.76,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-17T19:00:00.000Z",
+    "in": 0.82,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-17T20:00:00.000Z",
+    "in": 0.61,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-17T21:00:00.000Z",
+    "in": 0.5,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-17T22:00:00.000Z",
+    "in": 0.49,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-17T23:00:00.000Z",
+    "in": 0.5,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-18T00:00:00.000Z",
+    "in": 0.54,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-18T01:00:00.000Z",
+    "in": 0.5,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-18T02:00:00.000Z",
+    "in": 0.51,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-18T03:00:00.000Z",
+    "in": 0.48,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-18T04:00:00.000Z",
+    "in": 0.71,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-18T05:00:00.000Z",
+    "in": 0.37,
+    "in_net": null,
+    "out": 0.05,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-18T06:00:00.000Z",
+    "in": 0.1,
+    "in_net": null,
+    "out": 0.18,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-18T07:00:00.000Z",
+    "in": 0.14,
+    "in_net": null,
+    "out": 0.09,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-18T08:00:00.000Z",
+    "in": 0.09,
+    "in_net": null,
+    "out": 0.19,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-18T09:00:00.000Z",
+    "in": 0.01,
+    "in_net": null,
+    "out": 0.5,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-18T10:00:00.000Z",
+    "in": 0,
+    "in_net": null,
+    "out": 1.27,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-18T11:00:00.000Z",
+    "in": 0.01,
+    "in_net": null,
+    "out": 1.15,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-18T12:00:00.000Z",
+    "in": 0,
+    "in_net": null,
+    "out": 0.76,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-18T13:00:00.000Z",
+    "in": 0.06,
+    "in_net": null,
+    "out": 1.54,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-18T14:00:00.000Z",
+    "in": 0,
+    "in_net": null,
+    "out": 1.74,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-18T15:00:00.000Z",
+    "in": 0.23,
+    "in_net": null,
+    "out": 1.35,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-18T16:00:00.000Z",
+    "in": 0.51,
+    "in_net": null,
+    "out": 0.23,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-18T17:00:00.000Z",
+    "in": 1.38,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-18T18:00:00.000Z",
+    "in": 0.93,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-18T19:00:00.000Z",
+    "in": 0.88,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-18T20:00:00.000Z",
+    "in": 0.57,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-18T21:00:00.000Z",
+    "in": 0.56,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-18T22:00:00.000Z",
+    "in": 0.58,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-18T23:00:00.000Z",
+    "in": 0.56,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-19T00:00:00.000Z",
+    "in": 0.54,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-19T01:00:00.000Z",
+    "in": 0.53,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-19T02:00:00.000Z",
+    "in": 0.56,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-19T03:00:00.000Z",
+    "in": 0.53,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-19T04:00:00.000Z",
+    "in": 0.56,
+    "in_net": null,
+    "out": 0.01,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-19T05:00:00.000Z",
+    "in": 0.05,
+    "in_net": null,
+    "out": 0.2,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-19T06:00:00.000Z",
+    "in": 0.06,
+    "in_net": null,
+    "out": 0.2,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-19T07:00:00.000Z",
+    "in": 0.02,
+    "in_net": null,
+    "out": 0.46,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-19T08:00:00.000Z",
+    "in": 0,
+    "in_net": null,
+    "out": 1.65,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-19T09:00:00.000Z",
+    "in": 0.01,
+    "in_net": null,
+    "out": 0.6,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-19T10:00:00.000Z",
+    "in": 0,
+    "in_net": null,
+    "out": 1.01,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-19T11:00:00.000Z",
+    "in": 0,
+    "in_net": null,
+    "out": 0.91,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-19T12:00:00.000Z",
+    "in": 0,
+    "in_net": null,
+    "out": 1.42,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-19T13:00:00.000Z",
+    "in": 0.34,
+    "in_net": null,
+    "out": 1.96,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-19T14:00:00.000Z",
+    "in": 0.4,
+    "in_net": null,
+    "out": 0.06,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-19T15:00:00.000Z",
+    "in": 0.87,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-19T16:00:00.000Z",
+    "in": 0.57,
+    "in_net": null,
+    "out": 0.01,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-19T17:00:00.000Z",
+    "in": 0.82,
+    "in_net": null,
+    "out": 0.01,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-19T18:00:00.000Z",
+    "in": 0.94,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-19T19:00:00.000Z",
+    "in": 0.9,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-19T20:00:00.000Z",
+    "in": 0.75,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-19T21:00:00.000Z",
+    "in": 0.58,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-19T22:00:00.000Z",
+    "in": 0.53,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-19T23:00:00.000Z",
+    "in": 0.54,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-20T00:00:00.000Z",
+    "in": 0.52,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-20T01:00:00.000Z",
+    "in": 0.58,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-20T02:00:00.000Z",
+    "in": 0.54,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-20T03:00:00.000Z",
+    "in": 0.43,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-20T04:00:00.000Z",
+    "in": 0.25,
+    "in_net": null,
+    "out": 0.04,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-20T05:00:00.000Z",
+    "in": 0.25,
+    "in_net": null,
+    "out": 0.04,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-20T06:00:00.000Z",
+    "in": 0.16,
+    "in_net": null,
+    "out": 0.09,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-20T07:00:00.000Z",
+    "in": 0.12,
+    "in_net": null,
+    "out": 1.04,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-20T08:00:00.000Z",
+    "in": 0,
+    "in_net": null,
+    "out": 2.01,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-20T09:00:00.000Z",
+    "in": 1.14,
+    "in_net": null,
+    "out": 1.69,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-20T10:00:00.000Z",
+    "in": 0.29,
+    "in_net": null,
+    "out": 2.08,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-20T11:00:00.000Z",
+    "in": 0.49,
+    "in_net": null,
+    "out": 1.52,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-20T12:00:00.000Z",
+    "in": 0.31,
+    "in_net": null,
+    "out": 2.12,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-20T13:00:00.000Z",
+    "in": 0.27,
+    "in_net": null,
+    "out": 2.45,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-20T14:00:00.000Z",
+    "in": 0.2,
+    "in_net": null,
+    "out": 2.05,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-20T15:00:00.000Z",
+    "in": 0.13,
+    "in_net": null,
+    "out": 0.94,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-20T16:00:00.000Z",
+    "in": 0.3,
+    "in_net": null,
+    "out": 0.2,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-20T17:00:00.000Z",
+    "in": 1.91,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-20T18:00:00.000Z",
+    "in": 7.68,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-20T19:00:00.000Z",
+    "in": 1.61,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-20T20:00:00.000Z",
+    "in": 0.96,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-20T21:00:00.000Z",
+    "in": 0.63,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-20T22:00:00.000Z",
+    "in": 0.55,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-20T23:00:00.000Z",
+    "in": 0.56,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-21T00:00:00.000Z",
+    "in": 0.53,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-21T01:00:00.000Z",
+    "in": 0.54,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-21T02:00:00.000Z",
+    "in": 0.54,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-21T03:00:00.000Z",
+    "in": 0.49,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-21T04:00:00.000Z",
+    "in": 0.22,
+    "in_net": null,
+    "out": 0.08,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-21T05:00:00.000Z",
+    "in": 0.01,
+    "in_net": null,
+    "out": 0.57,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-21T06:00:00.000Z",
+    "in": 0.2,
+    "in_net": null,
+    "out": 0.61,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-21T07:00:00.000Z",
+    "in": 0.18,
+    "in_net": null,
+    "out": 0.67,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-21T08:00:00.000Z",
+    "in": 0.49,
+    "in_net": null,
+    "out": 1.33,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-21T09:00:00.000Z",
+    "in": 0.24,
+    "in_net": null,
+    "out": 1.42,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-21T10:00:00.000Z",
+    "in": 0.51,
+    "in_net": null,
+    "out": 0.39,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-21T11:00:00.000Z",
+    "in": 0.31,
+    "in_net": null,
+    "out": 0.4,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-21T12:00:00.000Z",
+    "in": 0.53,
+    "in_net": null,
+    "out": 0.03,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-21T13:00:00.000Z",
+    "in": 1.79,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-21T14:00:00.000Z",
+    "in": 1.28,
+    "in_net": null,
+    "out": 0.01,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-21T15:00:00.000Z",
+    "in": 1.04,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-21T16:00:00.000Z",
+    "in": 0.68,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-21T17:00:00.000Z",
+    "in": 0.97,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-21T18:00:00.000Z",
+    "in": 0.94,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-21T19:00:00.000Z",
+    "in": 0.85,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-21T20:00:00.000Z",
+    "in": 0.54,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-21T21:00:00.000Z",
+    "in": 0.53,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-21T22:00:00.000Z",
+    "in": 0.58,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-21T23:00:00.000Z",
+    "in": 0.61,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-22T00:00:00.000Z",
+    "in": 0.6,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-22T01:00:00.000Z",
+    "in": 0.58,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-22T02:00:00.000Z",
+    "in": 0.6,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-22T03:00:00.000Z",
+    "in": 0.54,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-22T04:00:00.000Z",
+    "in": 0.47,
+    "in_net": null,
+    "out": 0.01,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-22T05:00:00.000Z",
+    "in": 0.42,
+    "in_net": null,
+    "out": 0.15,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-22T06:00:00.000Z",
+    "in": 0.39,
+    "in_net": null,
+    "out": 0.09,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-22T07:00:00.000Z",
+    "in": 0.14,
+    "in_net": null,
+    "out": 0.7,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-22T08:00:00.000Z",
+    "in": 0.12,
+    "in_net": null,
+    "out": 1.83,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-22T09:00:00.000Z",
+    "in": 0.04,
+    "in_net": null,
+    "out": 3.02,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-22T10:00:00.000Z",
+    "in": 0.01,
+    "in_net": null,
+    "out": 3.56,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-22T11:00:00.000Z",
+    "in": 0.03,
+    "in_net": null,
+    "out": 3.78,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-22T12:00:00.000Z",
+    "in": 0.02,
+    "in_net": null,
+    "out": 3.81,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-22T13:00:00.000Z",
+    "in": 0.02,
+    "in_net": null,
+    "out": 3.41,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-22T14:00:00.000Z",
+    "in": 0,
+    "in_net": null,
+    "out": 2.66,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-22T15:00:00.000Z",
+    "in": 0.03,
+    "in_net": null,
+    "out": 1.93,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-22T16:00:00.000Z",
+    "in": 0.13,
+    "in_net": null,
+    "out": 0.81,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-22T17:00:00.000Z",
+    "in": 0.93,
+    "in_net": null,
+    "out": 0.01,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-22T18:00:00.000Z",
+    "in": 2.66,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-22T19:00:00.000Z",
+    "in": 0.89,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-22T20:00:00.000Z",
+    "in": 0.61,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-22T21:00:00.000Z",
+    "in": 0.6,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-22T22:00:00.000Z",
+    "in": 0.59,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-22T23:00:00.000Z",
+    "in": 0.58,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-23T00:00:00.000Z",
+    "in": 0.58,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-23T01:00:00.000Z",
+    "in": 0.5,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-23T02:00:00.000Z",
+    "in": 0.51,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-23T03:00:00.000Z",
+    "in": 0.47,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-23T04:00:00.000Z",
+    "in": 0.4,
+    "in_net": null,
+    "out": 0.02,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-23T05:00:00.000Z",
+    "in": 0.24,
+    "in_net": null,
+    "out": 0.07,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-23T06:00:00.000Z",
+    "in": 0,
+    "in_net": null,
+    "out": 0.44,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-23T07:00:00.000Z",
+    "in": 0,
+    "in_net": null,
+    "out": 1.23,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-23T08:00:00.000Z",
+    "in": 0,
+    "in_net": null,
+    "out": 2.51,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-23T09:00:00.000Z",
+    "in": 0,
+    "in_net": null,
+    "out": 2.74,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-23T10:00:00.000Z",
+    "in": 0,
+    "in_net": null,
+    "out": 2.75,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-23T11:00:00.000Z",
+    "in": 0,
+    "in_net": null,
+    "out": 2.18,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-23T12:00:00.000Z",
+    "in": 0,
+    "in_net": null,
+    "out": 1.67,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-23T13:00:00.000Z",
+    "in": 0.02,
+    "in_net": null,
+    "out": 1.8,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-23T14:00:00.000Z",
+    "in": 0,
+    "in_net": null,
+    "out": 0.93,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-23T15:00:00.000Z",
+    "in": 0,
+    "in_net": null,
+    "out": 0.62,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-23T16:00:00.000Z",
+    "in": 0.45,
+    "in_net": null,
+    "out": 0.12,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-23T17:00:00.000Z",
+    "in": 0.62,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-23T18:00:00.000Z",
+    "in": 0.75,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-23T19:00:00.000Z",
+    "in": 0.5,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-23T20:00:00.000Z",
+    "in": 0.45,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-23T21:00:00.000Z",
+    "in": 0.47,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-23T22:00:00.000Z",
+    "in": 0.46,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-23T23:00:00.000Z",
+    "in": 0.44,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-24T00:00:00.000Z",
+    "in": 0.45,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-24T01:00:00.000Z",
+    "in": 0.45,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-24T02:00:00.000Z",
+    "in": 0.44,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-24T03:00:00.000Z",
+    "in": 0.56,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-24T04:00:00.000Z",
+    "in": 0.64,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-24T05:00:00.000Z",
+    "in": 0.36,
+    "in_net": null,
+    "out": 0.01,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-24T06:00:00.000Z",
+    "in": 0.3,
+    "in_net": null,
+    "out": 0.01,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-24T07:00:00.000Z",
+    "in": 0.12,
+    "in_net": null,
+    "out": 0.02,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-24T08:00:00.000Z",
+    "in": 0.14,
+    "in_net": null,
+    "out": 0.02,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-24T09:00:00.000Z",
+    "in": 0.09,
+    "in_net": null,
+    "out": 0.07,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-24T10:00:00.000Z",
+    "in": 0.11,
+    "in_net": null,
+    "out": 0.03,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-24T11:00:00.000Z",
+    "in": 0.04,
+    "in_net": null,
+    "out": 0.21,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-24T12:00:00.000Z",
+    "in": 0.05,
+    "in_net": null,
+    "out": 0.49,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-24T13:00:00.000Z",
+    "in": 0.4,
+    "in_net": null,
+    "out": 0.07,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-24T14:00:00.000Z",
+    "in": 1.86,
+    "in_net": null,
+    "out": 0.04,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-24T15:00:00.000Z",
+    "in": 0.11,
+    "in_net": null,
+    "out": 0.18,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-24T16:00:00.000Z",
+    "in": 0.39,
+    "in_net": null,
+    "out": 0.13,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-24T17:00:00.000Z",
+    "in": 1.08,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-24T18:00:00.000Z",
+    "in": 0.93,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-24T19:00:00.000Z",
+    "in": 0.78,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-24T20:00:00.000Z",
+    "in": 0.49,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-24T21:00:00.000Z",
+    "in": 0.5,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-24T22:00:00.000Z",
+    "in": 0.47,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-24T23:00:00.000Z",
+    "in": 0.48,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-25T00:00:00.000Z",
+    "in": 0.47,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-25T01:00:00.000Z",
+    "in": 0.46,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-25T02:00:00.000Z",
+    "in": 0.45,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-25T03:00:00.000Z",
+    "in": 0.45,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-25T04:00:00.000Z",
+    "in": 0.34,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-25T05:00:00.000Z",
+    "in": 0.32,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-25T06:00:00.000Z",
+    "in": 0.15,
+    "in_net": null,
+    "out": 0.1,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-25T07:00:00.000Z",
+    "in": 0,
+    "in_net": null,
+    "out": 1.36,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-25T08:00:00.000Z",
+    "in": 0,
+    "in_net": null,
+    "out": 2.62,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-25T09:00:00.000Z",
+    "in": 0,
+    "in_net": null,
+    "out": 3.31,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-25T10:00:00.000Z",
+    "in": 0,
+    "in_net": null,
+    "out": 3.76,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-25T11:00:00.000Z",
+    "in": 0,
+    "in_net": null,
+    "out": 3.88,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-25T12:00:00.000Z",
+    "in": 0,
+    "in_net": null,
+    "out": 3.86,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-25T13:00:00.000Z",
+    "in": 0,
+    "in_net": null,
+    "out": 3.46,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-25T14:00:00.000Z",
+    "in": 0.05,
+    "in_net": null,
+    "out": 2.85,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-25T15:00:00.000Z",
+    "in": 0,
+    "in_net": null,
+    "out": 1.83,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-25T16:00:00.000Z",
+    "in": 1.02,
+    "in_net": null,
+    "out": 0.59,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-25T17:00:00.000Z",
+    "in": 0.7,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-25T18:00:00.000Z",
+    "in": 1.85,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-25T19:00:00.000Z",
+    "in": 0.69,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-25T20:00:00.000Z",
+    "in": 0.52,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-25T21:00:00.000Z",
+    "in": 0.5,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-25T22:00:00.000Z",
+    "in": 0.5,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-25T23:00:00.000Z",
+    "in": 0.49,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-26T00:00:00.000Z",
+    "in": 0.49,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-26T01:00:00.000Z",
+    "in": 0.49,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-26T02:00:00.000Z",
+    "in": 0.49,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-26T03:00:00.000Z",
+    "in": 0.47,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-26T04:00:00.000Z",
+    "in": 0.53,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-26T05:00:00.000Z",
+    "in": 0.3,
+    "in_net": null,
+    "out": 0.02,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-26T06:00:00.000Z",
+    "in": 0.23,
+    "in_net": null,
+    "out": 0.11,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-26T07:00:00.000Z",
+    "in": 0,
+    "in_net": null,
+    "out": 1.28,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-26T08:00:00.000Z",
+    "in": 0,
+    "in_net": null,
+    "out": 2.54,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-26T09:00:00.000Z",
+    "in": 0,
+    "in_net": null,
+    "out": 3.2,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-26T10:00:00.000Z",
+    "in": 0.25,
+    "in_net": null,
+    "out": 3.37,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-26T11:00:00.000Z",
+    "in": 0,
+    "in_net": null,
+    "out": 3.87,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-26T12:00:00.000Z",
+    "in": 0,
+    "in_net": null,
+    "out": 3.72,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-26T13:00:00.000Z",
+    "in": 0.03,
+    "in_net": null,
+    "out": 2.9,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-26T14:00:00.000Z",
+    "in": 0.03,
+    "in_net": null,
+    "out": 2.3,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-26T15:00:00.000Z",
+    "in": 0.06,
+    "in_net": null,
+    "out": 1.9,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-26T16:00:00.000Z",
+    "in": 1.08,
+    "in_net": null,
+    "out": 0.55,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-26T17:00:00.000Z",
+    "in": 0.57,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-26T18:00:00.000Z",
+    "in": 0.68,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-26T19:00:00.000Z",
+    "in": 0.97,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-26T20:00:00.000Z",
+    "in": 0.57,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-26T21:00:00.000Z",
+    "in": 0.46,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-26T22:00:00.000Z",
+    "in": 0.48,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-26T23:00:00.000Z",
+    "in": 0.45,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-27T00:00:00.000Z",
+    "in": 0.49,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-27T01:00:00.000Z",
+    "in": 0.48,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-27T02:00:00.000Z",
+    "in": 0.47,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-27T03:00:00.000Z",
+    "in": 0.47,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-27T04:00:00.000Z",
+    "in": 0.34,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-27T05:00:00.000Z",
+    "in": 0.19,
+    "in_net": null,
+    "out": 0.02,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-27T06:00:00.000Z",
+    "in": 0.09,
+    "in_net": null,
+    "out": 0.21,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-27T07:00:00.000Z",
+    "in": 0,
+    "in_net": null,
+    "out": 0.87,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-27T08:00:00.000Z",
+    "in": 0.05,
+    "in_net": null,
+    "out": 1.76,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-27T09:00:00.000Z",
+    "in": 0.55,
+    "in_net": null,
+    "out": 1.75,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-27T10:00:00.000Z",
+    "in": 0.35,
+    "in_net": null,
+    "out": 0.93,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-27T11:00:00.000Z",
+    "in": 0.71,
+    "in_net": null,
+    "out": 0.08,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-27T12:00:00.000Z",
+    "in": 0.9,
+    "in_net": null,
+    "out": 0.19,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-27T13:00:00.000Z",
+    "in": 0.77,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-27T14:00:00.000Z",
+    "in": 0.41,
+    "in_net": null,
+    "out": 0.02,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-27T15:00:00.000Z",
+    "in": 0.46,
+    "in_net": null,
+    "out": 0.01,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-27T16:00:00.000Z",
+    "in": 4.98,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-27T17:00:00.000Z",
+    "in": 6.42,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-27T18:00:00.000Z",
+    "in": 3.47,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-27T19:00:00.000Z",
+    "in": 1.21,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-27T20:00:00.000Z",
+    "in": 0.68,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-27T21:00:00.000Z",
+    "in": 0.49,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-27T22:00:00.000Z",
+    "in": 0.46,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-27T23:00:00.000Z",
+    "in": 0.5,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-28T00:00:00.000Z",
+    "in": 0.47,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-28T01:00:00.000Z",
+    "in": 0.47,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-28T02:00:00.000Z",
+    "in": 0.46,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-28T03:00:00.000Z",
+    "in": 0.4,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-28T04:00:00.000Z",
+    "in": 0.31,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-28T05:00:00.000Z",
+    "in": 0.27,
+    "in_net": null,
+    "out": 0.01,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-28T06:00:00.000Z",
+    "in": 0.14,
+    "in_net": null,
+    "out": 0.09,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-28T07:00:00.000Z",
+    "in": 0.13,
+    "in_net": null,
+    "out": 0.87,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-28T08:00:00.000Z",
+    "in": 0,
+    "in_net": null,
+    "out": 1.72,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-28T09:00:00.000Z",
+    "in": 0,
+    "in_net": null,
+    "out": 1.41,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-28T10:00:00.000Z",
+    "in": 0.72,
+    "in_net": null,
+    "out": 1.85,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-28T11:00:00.000Z",
+    "in": 1.04,
+    "in_net": null,
+    "out": 1.18,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-28T12:00:00.000Z",
+    "in": 1.58,
+    "in_net": null,
+    "out": 0.74,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-28T13:00:00.000Z",
+    "in": 0.09,
+    "in_net": null,
+    "out": 1.08,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-28T14:00:00.000Z",
+    "in": 0.01,
+    "in_net": null,
+    "out": 0.7,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-28T15:00:00.000Z",
+    "in": 0.79,
+    "in_net": null,
+    "out": 0.43,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-28T16:00:00.000Z",
+    "in": 0.64,
+    "in_net": null,
+    "out": 0.03,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-28T17:00:00.000Z",
+    "in": 0.72,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-28T18:00:00.000Z",
+    "in": 0.82,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-28T19:00:00.000Z",
+    "in": 0.77,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-28T20:00:00.000Z",
+    "in": 0.48,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-28T21:00:00.000Z",
+    "in": 0.47,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-28T22:00:00.000Z",
+    "in": 0.48,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-28T23:00:00.000Z",
+    "in": 0.47,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-29T00:00:00.000Z",
+    "in": 0.46,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-29T01:00:00.000Z",
+    "in": 0.46,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-29T02:00:00.000Z",
+    "in": 0.45,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-29T03:00:00.000Z",
+    "in": 0.46,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-29T04:00:00.000Z",
+    "in": 0.35,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-29T05:00:00.000Z",
+    "in": 0.37,
+    "in_net": null,
+    "out": 0.02,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-29T06:00:00.000Z",
+    "in": 0.27,
+    "in_net": null,
+    "out": 0.06,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-29T07:00:00.000Z",
+    "in": 0.01,
+    "in_net": null,
+    "out": 0.96,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-29T08:00:00.000Z",
+    "in": 0,
+    "in_net": null,
+    "out": 2.55,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-29T09:00:00.000Z",
+    "in": 0.01,
+    "in_net": null,
+    "out": 2.87,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-29T10:00:00.000Z",
+    "in": 0,
+    "in_net": null,
+    "out": 3.37,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-29T11:00:00.000Z",
+    "in": 0,
+    "in_net": null,
+    "out": 3.46,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-29T12:00:00.000Z",
+    "in": 0.03,
+    "in_net": null,
+    "out": 1.3,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-29T13:00:00.000Z",
+    "in": 0.63,
+    "in_net": null,
+    "out": 1.22,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-29T14:00:00.000Z",
+    "in": 0.34,
+    "in_net": null,
+    "out": 0.61,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-29T15:00:00.000Z",
+    "in": 0.06,
+    "in_net": null,
+    "out": 1.28,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-29T16:00:00.000Z",
+    "in": 0.68,
+    "in_net": null,
+    "out": 0.6,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-29T17:00:00.000Z",
+    "in": 1.06,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-29T18:00:00.000Z",
+    "in": 0.96,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-29T19:00:00.000Z",
+    "in": 0.54,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-29T20:00:00.000Z",
+    "in": 0.45,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-29T21:00:00.000Z",
+    "in": 0.46,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-29T22:00:00.000Z",
+    "in": 0.46,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-29T23:00:00.000Z",
+    "in": 0.46,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-30T00:00:00.000Z",
+    "in": 0.46,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-30T01:00:00.000Z",
+    "in": 0.43,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-30T02:00:00.000Z",
+    "in": 0.45,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-30T03:00:00.000Z",
+    "in": 0.46,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-30T04:00:00.000Z",
+    "in": 0.27,
+    "in_net": null,
+    "out": 0.01,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-30T05:00:00.000Z",
+    "in": 0.26,
+    "in_net": null,
+    "out": 0.06,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-30T06:00:00.000Z",
+    "in": 0,
+    "in_net": null,
+    "out": 0.42,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-30T07:00:00.000Z",
+    "in": 0,
+    "in_net": null,
+    "out": 1.14,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-30T08:00:00.000Z",
+    "in": 0.02,
+    "in_net": null,
+    "out": 2,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-30T09:00:00.000Z",
+    "in": 0.02,
+    "in_net": null,
+    "out": 2.5,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-30T10:00:00.000Z",
+    "in": 0,
+    "in_net": null,
+    "out": 2.46,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-30T11:00:00.000Z",
+    "in": 0.08,
+    "in_net": null,
+    "out": 1.88,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-30T12:00:00.000Z",
+    "in": 1.05,
+    "in_net": null,
+    "out": 0.31,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-30T13:00:00.000Z",
+    "in": 0.24,
+    "in_net": null,
+    "out": 1.19,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-30T14:00:00.000Z",
+    "in": 0.45,
+    "in_net": null,
+    "out": 1.79,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-30T15:00:00.000Z",
+    "in": 0.14,
+    "in_net": null,
+    "out": 2.16,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-30T16:00:00.000Z",
+    "in": 0.11,
+    "in_net": null,
+    "out": 0.62,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-30T17:00:00.000Z",
+    "in": 1.17,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-30T18:00:00.000Z",
+    "in": 1.25,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-30T19:00:00.000Z",
+    "in": 0.94,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-30T20:00:00.000Z",
+    "in": 0.57,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-30T21:00:00.000Z",
+    "in": 0.51,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-30T22:00:00.000Z",
+    "in": 0.51,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-30T23:00:00.000Z",
+    "in": 0.49,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-31T00:00:00.000Z",
+    "in": 0.49,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-31T01:00:00.000Z",
+    "in": 0.46,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-31T02:00:00.000Z",
+    "in": 0.48,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-31T03:00:00.000Z",
+    "in": 0.43,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-31T04:00:00.000Z",
+    "in": 0.5,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-31T05:00:00.000Z",
+    "in": 0.29,
+    "in_net": null,
+    "out": 0.01,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-31T06:00:00.000Z",
+    "in": 0.04,
+    "in_net": null,
+    "out": 0.21,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-31T07:00:00.000Z",
+    "in": 0,
+    "in_net": null,
+    "out": 1.09,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-31T08:00:00.000Z",
+    "in": 0,
+    "in_net": null,
+    "out": 2.53,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-31T09:00:00.000Z",
+    "in": 0,
+    "in_net": null,
+    "out": 2.45,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-31T10:00:00.000Z",
+    "in": 0.02,
+    "in_net": null,
+    "out": 2.74,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-31T11:00:00.000Z",
+    "in": 0,
+    "in_net": null,
+    "out": 2.58,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-31T12:00:00.000Z",
+    "in": 0,
+    "in_net": null,
+    "out": 2.52,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-31T13:00:00.000Z",
+    "in": 0.07,
+    "in_net": null,
+    "out": 1.04,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-31T14:00:00.000Z",
+    "in": 0.1,
+    "in_net": null,
+    "out": 0.78,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-31T15:00:00.000Z",
+    "in": 0.21,
+    "in_net": null,
+    "out": 1.7,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-31T16:00:00.000Z",
+    "in": 1.09,
+    "in_net": null,
+    "out": 0.39,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-31T17:00:00.000Z",
+    "in": 1.92,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-31T18:00:00.000Z",
+    "in": 1.46,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-31T19:00:00.000Z",
+    "in": 1,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  },
+  {
+    "time": "2022-08-31T20:00:00.000Z",
+    "in": 0.45,
+    "in_net": null,
+    "out": 0,
+    "out_net": null
+  }
+]

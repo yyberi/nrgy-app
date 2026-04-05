@@ -1,0 +1,16 @@
+{
+  "id": "vat-fi",
+  "label": "Suomen arvonlisavero",
+  "currency": "EUR",
+  "components": [
+    {
+      "id": "vat",
+      "type": "percent",
+      "unit": "percent",
+      "schedule": [
+        { "from": "2013-01-01", "value": 24 },
+        { "from": "2024-09-01", "value": 25.5 }
+      ]
+    }
+  ]
+}
