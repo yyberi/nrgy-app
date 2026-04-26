@@ -23,6 +23,10 @@ import { useMainSummaryState } from '@/composables/useMainSummaryState'
 import { useTariffCalculations } from '@/composables/useTariffCalculations'
 import { inpDebugEnabled, interactionTimingRecords, setInpDebugEnabled } from '@/composables/inpDebug'
 
+defineOptions({
+  name: 'MainView'
+})
+
 // Stores
 const combinedStore = useCombinedDataStore()
 const tariffStore = useTariffDataStore()

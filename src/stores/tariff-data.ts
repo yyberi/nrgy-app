@@ -37,8 +37,9 @@ export const useTariffDataStore = defineStore('tariffData', () => {
       retail.value = buildTariffIndex(retailConfig)
       vat.value = buildTariffIndex(vatConfig)
       loaded.value = true
-    } catch (e: any) {
-      error.value = `Failed to load tariff config: ${e.message || e}`
+    } catch (e: unknown) {
+      const message = e instanceof Error ? e.message : String(e)
+      error.value = `Failed to load tariff config: ${message}`
       console.error('[tariffData] load error', e)
     } finally {
       loading.value = false

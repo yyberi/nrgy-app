@@ -1,8 +1,9 @@
-import { test, expect } from '@playwright/test';
+import { expect, test } from '@playwright/test'
 
-// See here how to get started:
-// https://playwright.dev/docs/intro
-test('visits the app root url', async ({ page }) => {
-  await page.goto('/');
-  await expect(page.locator('h1')).toHaveText('You did it!');
+test('loads the dashboard', async ({ page }) => {
+  await page.goto('/')
+
+  await expect(page.getByRole('heading', { name: 'Resolution too small' })).toHaveCount(0)
+  await expect(page.getByRole('heading', { name: 'Time selection' })).toBeVisible()
+  await expect(page.getByRole('img', { name: 'Nrgy' })).toBeVisible()
 })

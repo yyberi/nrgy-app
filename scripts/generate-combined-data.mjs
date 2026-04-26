@@ -31,7 +31,7 @@ async function processMonth(year, month) {
   try {
     const content = await fs.readFile(meterFile, 'utf8')
     meterData = JSON.parse(content)
-  } catch (err) {
+  } catch {
     console.warn(`⚠️  ${yearMonth}: Meter data not found, skipping`)
     return null
   }
@@ -42,7 +42,7 @@ async function processMonth(year, month) {
   try {
     const content = await fs.readFile(solarFile, 'utf8')
     solarData = JSON.parse(content)
-  } catch (err) {
+  } catch {
     console.warn(`⚠️  ${yearMonth}: Solar data not found, will use zeros`)
   }
 
@@ -52,7 +52,7 @@ async function processMonth(year, month) {
   try {
     const content = await fs.readFile(priceFile, 'utf8')
     priceData = JSON.parse(content)
-  } catch (err) {
+  } catch {
     console.warn(`⚠️  ${yearMonth}: Price data not found, prices will be null`)
   }
 
@@ -139,7 +139,7 @@ async function main() {
   try {
     const content = await fs.readFile(meterIndexFile, 'utf8')
     meterFiles = JSON.parse(content)
-  } catch (err) {
+  } catch {
     console.error('❌ Failed to read meter-data/index.json')
     process.exitCode = 1
     return

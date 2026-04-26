@@ -4,12 +4,12 @@
   </div>
 </template>
 
-<script>
+<script lang="ts">
 import Highcharts from '@/highcharts-theme'
 import { onMounted, ref } from 'vue'
 
 export default {
-  name: 'Chart',
+  name: 'DemoChart',
   setup() {
     const chartId = ref(`chart-container-${Math.random().toString(36).substr(2, 9)}`) // Generate a unique ID
 
@@ -21,8 +21,9 @@ export default {
         },
       })
 
-      Highcharts.chart(chartId.value, {
+      Highcharts.chart({
         chart: {
+          renderTo: chartId.value,
           type: 'column',
           // backgroundColor: null,
           reflow: true, // Ensure the chart resizes with its container
@@ -68,10 +69,12 @@ export default {
         },
         series: [
           {
+            type: 'column',
             name: 'Jane',
             data: [1, 0, 4, 5, 6, 7, 4, 9, 1, 2, 3],
           },
           {
+            type: 'column',
             name: 'John',
             data: [5, 7, 3, 4, 5, 6, 4, 9, 1, 2, 3],
           },

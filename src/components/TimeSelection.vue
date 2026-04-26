@@ -654,10 +654,10 @@ function handleTrackClick(event: MouseEvent) {
   const rect = timelineTrackRef.value.getBoundingClientRect()
   const clickX = event.clientX - rect.left
   const clickPercent = clickX / rect.width
-  let clickMs = timelineStartMs.value + (clickPercent * timelineDurationMs.value)
+  const clickMs = timelineStartMs.value + (clickPercent * timelineDurationMs.value)
   
   // Snap to nearest period
-  let newStartMs = snapToNearestPeriod(clickMs)
+  const newStartMs = snapToNearestPeriod(clickMs)
   
   // Recalculate end based on duration (handles partial periods)
   const newEndMs = addDurationExclusive(newStartMs, duration.value)

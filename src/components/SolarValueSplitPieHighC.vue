@@ -27,7 +27,7 @@ function toEuros(valueCents: number) {
   return Number((valueCents / 100).toFixed(2))
 }
 
-const seriesData = computed(() => [
+const seriesData = computed<Highcharts.PointOptionsObject[]>(() => [
   { name: 'Avoided spot price', y: toEuros(props.spotEnergyCents), color: '#3FA7FF' },
   { name: 'Avoided sales margin', y: toEuros(props.marginCents), color: '#7A86FF' },
   { name: 'Avoided transfer fee', y: toEuros(props.transferCents), color: '#64CFA0' },
@@ -92,7 +92,7 @@ function createChart() {
 
 function updateSeries() {
   if (!chart || !chart.series[0]) return
-  chart.series[0].setData(seriesData.value as any, true, false, false)
+  chart.series[0].setData(seriesData.value, true, false, false)
 }
 
 onMounted(() => {

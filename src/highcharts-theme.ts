@@ -57,8 +57,7 @@ const darkTheme: Highcharts.Options = {
 // Apply the theme globally
 Highcharts.setOptions({
   // Display axis/timestamps in the browser's local time (incoming data timestamps are UTC)
-  // Cast to any to satisfy TS; Highcharts runtime accepts useUTC
-  time: { useUTC: false } as any,
+  time: { useUTC: false } as Highcharts.TimeOptions,
   accessibility: {
     enabled: false
   },
@@ -78,7 +77,7 @@ Highcharts.setOptions({
   boost: {
     useGPUTranslations: true,
     usePreallocated: true,
-  } as any,
+  } as Highcharts.BoostOptions,
   plotOptions: {
     series: {
       // Force Boost on so all charts use the boosted rendering path.

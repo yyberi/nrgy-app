@@ -179,10 +179,8 @@ function updateSeries(data: [number, number][]) {
   chart.series[0].setData(data, false, false, false)
   const extent = yExtentWithPadding(data)
   if (extent) {
-    ;(chart.yAxis[0] as any).update(
+    chart.yAxis[0].update(
       { min: 0, softMax: extent.max, startOnTick: false, endOnTick: false, minPadding: 0 },
-      false,
-      false,
       false
     )
   }
@@ -243,11 +241,8 @@ function createChart() {
           style: { fontSize: '0.52rem' }
         },
         tickPositioner: function (this: Highcharts.Axis) {
-            const argMin = (arguments as any)[0]
-            const argMax = (arguments as any)[1]
-
-            let min = Number.isFinite(argMin) ? (argMin as number) : undefined
-            let max = Number.isFinite(argMax) ? (argMax as number) : undefined
+            let min = Number.isFinite(this.min) ? this.min : undefined
+            let max = Number.isFinite(this.max) ? this.max : undefined
 
             if (min == null || max == null) {
               const range = rangeDomainMs()
@@ -288,11 +283,8 @@ function createChart() {
         tickPositioner: function (this: Highcharts.Axis) {
           if (!isAllRangeSelected()) return []
 
-          const argMin = (arguments as any)[0]
-          const argMax = (arguments as any)[1]
-
-          let min = Number.isFinite(argMin) ? (argMin as number) : undefined
-          let max = Number.isFinite(argMax) ? (argMax as number) : undefined
+          let min = Number.isFinite(this.min) ? this.min : undefined
+          let max = Number.isFinite(this.max) ? this.max : undefined
 
           if (min == null || max == null) {
             const range = rangeDomainMs()

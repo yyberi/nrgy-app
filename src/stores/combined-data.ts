@@ -336,9 +336,10 @@ export const useCombinedDataStore = defineStore('combinedData', () => {
       if (token === loadToken) {
         points.value = filtered.sort((a, b) => Date.parse(a.time) - Date.parse(b.time))
       }
-    } catch (e: any) {
+    } catch (e: unknown) {
       if (token === loadToken) {
-        error.value = `Failed to load combined dataset: ${e.message || e}`
+        const message = e instanceof Error ? e.message : String(e)
+        error.value = `Failed to load combined dataset: ${message}`
         console.error('[combinedData] dataset load error', e)
         points.value = []
       }
@@ -380,8 +381,9 @@ export const useCombinedDataStore = defineStore('combinedData', () => {
         rangeEndMsExclusive.value = clamped.end
         await loadRangePoints()
       }
-    } catch (e: any) {
-      error.value = `Failed to load combined data index: ${e.message || e}`
+    } catch (e: unknown) {
+      const message = e instanceof Error ? e.message : String(e)
+      error.value = `Failed to load combined data index: ${message}`
       console.error('[combinedData] index load error', e)
     }
   }

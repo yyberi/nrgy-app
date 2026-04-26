@@ -1,6 +1,8 @@
 import process from 'node:process'
 import { defineConfig, devices } from '@playwright/test'
 
+const desktopViewport = { width: 1440, height: 1000 }
+
 /**
  * Read environment variables from file.
  * https://github.com/motdotla/dotenv
@@ -49,18 +51,21 @@ export default defineConfig({
       name: 'chromium',
       use: {
         ...devices['Desktop Chrome'],
+        viewport: desktopViewport,
       },
     },
     {
       name: 'firefox',
       use: {
         ...devices['Desktop Firefox'],
+        viewport: desktopViewport,
       },
     },
     {
       name: 'webkit',
       use: {
         ...devices['Desktop Safari'],
+        viewport: desktopViewport,
       },
     },
 

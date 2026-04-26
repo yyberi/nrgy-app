@@ -13,13 +13,36 @@ interface DisplayUpdateCallback {
 }
 
 type XYData = { x: number[]; y: Array<number | null> }
+type SeriesDataRow = [number, number | null] | { x?: unknown; y?: unknown }
+type SeriesWithRawData = Highcharts.Series & {
+  getColumn?: (columnName: string, modified?: boolean) => unknown
+  xData?: unknown
+  yData?: unknown
+  options?: Highcharts.Series['options'] & { data?: unknown }
+}
+type SyncedChart = Highcharts.Chart & {
+  __displayUpdateCallback?: DisplayUpdateCallback
+  __highcSyncHandlers?: SyncHandlers
+}
+
+function numberArray(value: unknown): number[] | undefined {
+  return Array.isArray(value) && value.every(item => typeof item === 'number')
+    ? value
+    : undefined
+}
+
+function nullableNumberArray(value: unknown): Array<number | null> | undefined {
+  return Array.isArray(value) && value.every(item => typeof item === 'number' || item === null)
+    ? value
+    : undefined
+}
 
 function getSeriesXY(series: Highcharts.Series): XYData | null {
   // Highcharts v12 (and Boost) stores data in a DataTable; getColumn is the most robust.
-  const anySeries = series as any
-  const getColumn = typeof anySeries.getColumn === 'function' ? anySeries.getColumn.bind(anySeries) : null
-  const xCol = (getColumn && (getColumn('x', true) || getColumn('x'))) as number[] | undefined
-  const yCol = (getColumn && (getColumn('y', true) || getColumn('y'))) as Array<number | null> | undefined
+  const rawSeries = series as SeriesWithRawData
+  const getColumn = typeof rawSeries.getColumn === 'function' ? rawSeries.getColumn.bind(rawSeries) : null
+  const xCol = numberArray(getColumn?.('x', true) || getColumn?.('x'))
+  const yCol = nullableNumberArray(getColumn?.('y', true) || getColumn?.('y'))
 
   if (Array.isArray(xCol) && xCol.length) {
     const y = Array.isArray(yCol) ? yCol : []
@@ -27,11 +50,11 @@ function getSeriesXY(series: Highcharts.Series): XYData | null {
   }
 
   // Fallbacks for non-boosted series.
-  const xData = (anySeries.xData as number[] | undefined) || []
-  const yData = (anySeries.yData as Array<number | null> | undefined) || []
+  const xData = numberArray(rawSeries.xData) || []
+  const yData = nullableNumberArray(rawSeries.yData) || []
   if (Array.isArray(xData) && xData.length) return { x: xData, y: Array.isArray(yData) ? yData : [] }
 
-  const optData = (anySeries.options?.data as any[] | undefined) || []
+  const optData = Array.isArray(rawSeries.options?.data) ? rawSeries.options.data as SeriesDataRow[] : []
   if (Array.isArray(optData) && optData.length) {
     const x: number[] = []
     const y: Array<number | null> = []
@@ -39,9 +62,9 @@ function getSeriesXY(series: Highcharts.Series): XYData | null {
       if (Array.isArray(row) && row.length >= 2) {
         x.push(row[0])
         y.push(row[1])
-      } else if (row && typeof row === 'object' && 'x' in row) {
-        x.push((row as any).x)
-        y.push((row as any).y ?? null)
+      } else if (row && typeof row === 'object' && 'x' in row && typeof row.x === 'number') {
+        x.push(row.x)
+        y.push(typeof row.y === 'number' || row.y === null ? row.y : null)
       }
     }
     if (x.length) return { x, y }
@@ -69,7 +92,7 @@ function findNearestIndex(sortedX: number[], x: number) {
 }
 
 function highlightXY(chart: Highcharts.Chart, seriesName: string, xVal: number, yVal: number | null | undefined) {
-  const displayCallback = (chart as any).__displayUpdateCallback as DisplayUpdateCallback | undefined
+  const displayCallback = (chart as SyncedChart).__displayUpdateCallback
   if (displayCallback) {
     const date = new Date(xVal)
     const timeStr = `${date.getFullYear()}-${String(date.getMonth() + 1).padStart(2, '0')}-${String(date.getDate()).padStart(2, '0')} ${String(date.getHours()).padStart(2, '0')}:${String(date.getMinutes()).padStart(2, '0')}`
@@ -89,7 +112,7 @@ function highlightXY(chart: Highcharts.Chart, seriesName: string, xVal: number, 
 
   const axis = chart.xAxis[0]
   const plotX = axis.toPixels(xVal, true)
-  axis.drawCrosshair(undefined as any, { x: xVal, plotX } as any)
+  axis.drawCrosshair(undefined, { x: xVal, plotX } as Highcharts.Point)
 }
 
 export function registerHighCChart(chart: Highcharts.Chart, group = 'highcEnergy', displayCallback?: DisplayUpdateCallback) {
@@ -97,11 +120,11 @@ export function registerHighCChart(chart: Highcharts.Chart, group = 'highcEnergy
   highcGroups[group].add(chart)
   
   if (displayCallback) {
-    (chart as any).__displayUpdateCallback = displayCallback
+    ;(chart as SyncedChart).__displayUpdateCallback = displayCallback
   }
 
   Highcharts.addEvent(chart.xAxis[0], 'setExtremes', function (e: Highcharts.AxisSetExtremesEventObject) {
-    const trigger = (e as any).trigger
+    const trigger = (e as Highcharts.AxisSetExtremesEventObject & { trigger?: string }).trigger
     // Skip if this event came from another chart's sync
     if (trigger === 'sync') return
     
@@ -171,7 +194,7 @@ export function registerHighCChart(chart: Highcharts.Chart, group = 'highcEnergy
       if (otherIdx < 0) return
       try {
         highlightXY(other, otherSeries.name, otherXY.x[otherIdx], otherXY.y[otherIdx])
-      } catch (err) {
+      } catch {
         // Silently ignore errors during highlight
       }
     })
@@ -189,28 +212,28 @@ export function registerHighCChart(chart: Highcharts.Chart, group = 'highcEnergy
       if (!c.xAxis || !c.xAxis[0] || !c.container?.ownerDocument) return
       try {
         c.xAxis[0].hideCrosshair()
-        const callback = (c as any).__displayUpdateCallback as DisplayUpdateCallback | undefined
+        const callback = (c as SyncedChart).__displayUpdateCallback
         if (callback) callback('', '')
-      } catch (err) {
+      } catch {
         // Silently ignore errors
       }
     })
   }
   container.addEventListener('mousemove', mousemove)
   container.addEventListener('mouseleave', mouseleave)
-  ;(chart as any).__highcSyncHandlers = { mousemove, mouseleave } as SyncHandlers
+  ;(chart as SyncedChart).__highcSyncHandlers = { mousemove, mouseleave }
 }
 
 export function unregisterHighCChart(chart: Highcharts.Chart, group = 'highcEnergy') {
   const set = highcGroups[group]
   if (set && set.has(chart)) set.delete(chart)
   if (set && !set.size) delete highcGroups[group]
-  const handlers = (chart as any).__highcSyncHandlers as SyncHandlers | undefined
+  const handlers = (chart as SyncedChart).__highcSyncHandlers
   if (handlers) {
     chart.container.removeEventListener('mousemove', handlers.mousemove)
     chart.container.removeEventListener('mouseleave', handlers.mouseleave)
   }
-  delete (chart as any).__highcSyncHandlers
+  delete (chart as SyncedChart).__highcSyncHandlers
 }
 
 export function resetHighCZoom(group = 'highcEnergy') {
@@ -220,7 +243,7 @@ export function resetHighCZoom(group = 'highcEnergy') {
     if (!ch.xAxis || !ch.xAxis[0] || !ch.container?.ownerDocument) return
     try { 
       ch.xAxis[0].setExtremes(undefined, undefined, true, false, { trigger: 'sync' }) 
-    } catch (err) {
+    } catch {
       // Silently ignore errors
     }
   })

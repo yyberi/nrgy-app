@@ -47,6 +47,12 @@ Asenna riippuvuudet projektin juuressa (`nrgy-app`):
 npm install
 ```
 
+Vaihtoehtoisesti voit käyttää puhdasta asennusta:
+
+```sh
+npm clean-install
+```
+
 ## Kehitystila
 
 Käynnistä kehityspalvelin:
@@ -64,6 +70,8 @@ Luo tuotantobuildi:
 ```sh
 npm run build
 ```
+
+Tuotantobuildi edellyttää, että riippuvuudet on ensin asennettu (`npm install` tai `npm clean-install`). Build-komento käyttää `run-p`-komentoa, joka tulee projektin npm-riippuvuuksista.
 
 Build-komento tekee ennen varsinaista kääntöä datan validoinnin (`scripts/validate-data.mjs`).
 
@@ -95,6 +103,9 @@ E2E-testit:
 # Asenna selaimet ensimmäisellä kerralla
 npx playwright install
 
+# Asenna selaintestien tarvitsemat järjestelmäkirjastot
+npx playwright install-deps
+
 # Aja E2E-testit
 npm run test:e2e
 ```
@@ -104,6 +115,8 @@ Lint:
 ```sh
 npm run lint
 ```
+
+Huom: nykytilassa `npm run lint` ei ole puhdas tarkistusajo, vaan se ajaa ESLintin `--fix`-lipulla. Komento raportoi tällä hetkellä noin 100 virhettä.
 
 Formatointi:
 

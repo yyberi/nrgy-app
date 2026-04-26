@@ -62,8 +62,6 @@ export function useMainSummaryState({
   hasNetting,
   totalImport,
   totalSelfConsumption,
-  totalExport,
-  solarTotal,
   meterExportTotalDisplay,
   meterExportNetDisplay,
   avoidedConsumptionEnergyDisplay,

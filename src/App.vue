@@ -1,12 +1,12 @@
 <script setup lang="ts">
-import { ref, shallowRef } from 'vue'
+import { ref, shallowRef, type Component } from 'vue'
 import SplashScreen from './components/SplashScreen.vue'
 
 // Start loading the main bundle immediately (at module evaluation) for earliest possible fetch
 const mainImportPromise = import('./Main.vue')
 
 const showSplash = ref(true)
-const MainComponent = shallowRef<any>(null)
+const MainComponent = shallowRef<Component | null>(null)
 
 mainImportPromise.then(m => {
   MainComponent.value = m.default

@@ -19,6 +19,11 @@ const props = defineProps<Props>()
 const chartRef = ref<HTMLElement | null>(null)
 let chart: Highcharts.Chart | null = null
 let resizeObserver: ResizeObserver | null = null
+type CenterLabelChart = Highcharts.Chart & {
+  customTotalLabel?: Highcharts.SVGElement
+  customTotalValue?: Highcharts.SVGElement
+  customTotalUnit?: Highcharts.SVGElement
+}
 
 function round2(value: number) {
   return Math.round((value + Number.EPSILON) * 100) / 100
@@ -40,7 +45,7 @@ const chartValues = computed(() => {
 
 const totalValue = computed(() => chartValues.value.total)
 
-const seriesData = computed(() => [
+const seriesData = computed<Highcharts.PointOptionsObject[]>(() => [
   { name: 'Surplus', y: chartValues.value.surplus, color: '#F6C142' },
   { name: 'Self consumption (SCR)', y: chartValues.value.selfConsumption, color: '#2DBE7F' }
 ])
@@ -54,7 +59,7 @@ function createChart() {
       backgroundColor: 'transparent',
       events: {
         render: function () {
-          const c = this as any
+          const c = this as CenterLabelChart
           const centerX = c.plotLeft + c.plotWidth / 2
           const centerY = c.plotTop + c.plotHeight / 2
           if (c.customTotalLabel) c.customTotalLabel.destroy()
@@ -62,17 +67,17 @@ function createChart() {
           if (c.customTotalUnit) c.customTotalUnit.destroy()
           c.customTotalLabel = c.renderer
             .text('Total', centerX, centerY - 12, false)
-            .css({ color: '#aaa', fontSize: '0.8rem', fontWeight: '400', textAnchor: 'middle' } as any)
+            .css({ color: '#aaa', fontSize: '0.8rem', fontWeight: '400', textAnchor: 'middle' })
             .attr({ align: 'center', zIndex: 5 })
             .add()
           c.customTotalValue = c.renderer
             .text(`${totalValue.value.toFixed(2)}`, centerX, centerY + 8, false)
-            .css({ color: '#fff', fontSize: '0.95rem', fontWeight: '700', textAnchor: 'middle' } as any)
+            .css({ color: '#fff', fontSize: '0.95rem', fontWeight: '700', textAnchor: 'middle' })
             .attr({ align: 'center', zIndex: 5 })
             .add()
           c.customTotalUnit = c.renderer
             .text('kWh', centerX, centerY + 24, false)
-            .css({ color: '#aaa', fontSize: '0.7rem', fontWeight: '400', textAnchor: 'middle' } as any)
+            .css({ color: '#aaa', fontSize: '0.7rem', fontWeight: '400', textAnchor: 'middle' })
             .attr({ align: 'center', zIndex: 5 })
             .add()
         }
@@ -126,8 +131,8 @@ function createChart() {
 
 function updateSeries() {
   if (!chart || !chart.series[0]) return
-  chart.series[0].setData(seriesData.value as any, true, false, false)
-  ;(chart as any).redraw()
+  chart.series[0].setData(seriesData.value, true, false, false)
+  chart.redraw()
 }
 
 onMounted(() => {
