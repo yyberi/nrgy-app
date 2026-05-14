@@ -116,8 +116,6 @@ Lint:
 npm run lint
 ```
 
-Huom: nykytilassa `npm run lint` ei ole puhdas tarkistusajo, vaan se ajaa ESLintin `--fix`-lipulla. Komento raportoi tällä hetkellä noin 100 virhettä.
-
 Formatointi:
 
 ```sh
